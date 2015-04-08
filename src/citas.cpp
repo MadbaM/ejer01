@@ -17,10 +17,7 @@ int main() {
 srand(time(NULL));
 
 
-	creaPacientes();
 
-	menu();
-	//cout << "bye bye" << endl;
 
 
 	return 0;

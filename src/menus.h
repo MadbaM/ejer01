@@ -11,12 +11,10 @@
 
 
 
-string semana[5]={"lunes","martes","miercoles","jueves","viernes"};
-string horario[8]={"9","10","11","12","13","14","17","18"};
+string item[5]={"a","b","c","d","e"};
 
 
 void opciones(){
-
 
 }
 
@@ -33,21 +31,21 @@ do{
 		switch(op){
 
 		case 1:
-			insertarCita();
+
 			fflush(stdin);
 		break;
 
 		case 2:
-			modificarCita();
+
 			fflush(stdin);
 			break;
 
 		case 3:
-			borrarCita ();
+
 			fflush(stdin);
 		break;
 		case 4:
-			consultarCita();
+
 			fflush(stdin);
 		break;
 		case 5:
