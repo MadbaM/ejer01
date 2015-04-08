@@ -25,7 +25,7 @@ void menu(){
 	int op;
 do{
 	verMatriz();
-	cout << "\n--------------------------------------------------------------------------\n\n1 - Insertar Cita\n2 - Modificar Cita\n3 - Borrar Cita\n4 - Consultar Cita\n5 - Salir del programa\n---------------------\nSeleciona una opción del menú:" << endl;
+	cout << "\n--------------------------------------------------------------------------\n\n1 - item1\n2 - item1\n3 - item1\n4 - item1\n5 - item1\n---------------------\nSeleciona una opción del menú:" << endl;
 
 		cin >> op;
 		switch(op){
