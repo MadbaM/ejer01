@@ -24,7 +24,7 @@ void menu(){
 
 	int op;
 do{
-	verMatriz();
+
 	cout << "\n--------------------------------------------------------------------------\n\n1 - item1\n2 - item1\n3 - item1\n4 - item1\n5 - item1\n---------------------\nSeleciona una opción del menú:" << endl;
 
 		cin >> op;
