@@ -2,7 +2,7 @@
  * citas.h
  *
  *  Created on: 20/03/2015
- *      Author: luis
+ *      Author: luis Tapia
  */
 
 #ifndef CITAS_H_
